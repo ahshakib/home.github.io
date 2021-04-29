@@ -1,0 +1,28 @@
+
+section{
+    width: 100vw;
+    margin: 90px 20px;
+}
+section .card{
+    width: 30vw;
+    height: 40vh;
+    border: 1px solid white;
+    color: rgb(200, 189, 189);
+    border-radius: 8px;
+    display: inline-block;
+    padding: 8px;
+    margin-left: 25px;
+}
+.card:hover{
+    background-color: rgba(200, 196, 196, 0.055);
+    box-shadow: -4px -2px 16px 0px #0e0d0d7a;
+    cursor: pointer;
+}
+.card h2{
+    text-align: center;
+    padding: 5px 10px;
+}
+.card p{
+    text-align: center;
+    padding: 8px 13px;    
+}

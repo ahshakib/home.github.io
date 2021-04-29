@@ -1,0 +1,19 @@
+.containe{
+    width: 450px;
+    height: 280px;
+    margin: auto;
+    border: 2px solid white;
+    padding: 14px;
+    color: rgb(202, 184, 184);
+    overflow: scroll;
+}
+.containe h2{
+    padding: 12px;
+    text-align: center;
+    font-family: sans-serif;
+}
+.containe p{
+    padding: 10px;
+    text-align: center;
+    font-family: cursive;
+}
